@@ -14,7 +14,7 @@
 ; Et remplacer le y par la touche effective sur la fenêtre du compte secondaire
 ; Vous pouvez fermer le script en effectuant un clic droit sur l'icone verte dans les icônes cachés windows ( en bas à droite )
 
-"::
+x::
 ControlFocus, , Edge
-controlsend,ahk_parent ,{& Down}{& Up}, Edge
+controlsend,ahk_parent ,{y Down}{y Up}, Edge
 return
