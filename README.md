@@ -1,9 +1,9 @@
-# AHK-flyff-alt
+# AHK-alt
 
 ## Comment l'installer ?
 
 1. Installez [AutoHotkey](https://www.autohotkey.com/)
-2. Télécharger le fichier **AHK-flyff-alt.ahk**
+2. Télécharger le fichier **AHK-alt.ahk**
 
 ## Comment le modifier ?
 
